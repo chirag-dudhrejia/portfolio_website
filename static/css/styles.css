@@ -79,3 +79,12 @@ body {
 #contact button {
     border-radius: 25px;
 }
+
+.social-icon {
+    font-size: 30px;
+    list-style: none;
+}
+
+.contact-icon {
+  color: black;
+}
